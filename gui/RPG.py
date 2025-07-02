@@ -7,7 +7,7 @@ from messages import strength_buff_msgs_wizard
 from messages import strength_buff_msgs_archer
 from messages import strength_buff_msgs_knight
 import pygame
-from UI import GameUI
+
 pygame.init() #initialized pygame
 pygame.mixer.init() #intitalized the audio system
 
