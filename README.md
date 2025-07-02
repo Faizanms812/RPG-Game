@@ -109,6 +109,11 @@ Function used for buff button and heal. I also have a working health bar
 
 ![image](https://github.com/user-attachments/assets/deb69668-ad56-4320-a0dc-76e5e7d0f874)
 
+Heres an example of a unique ability dragon has. It can disable all your abilities for 1 turn. As you can see all my buttons are disabled.
+
+The knight also has unique abilities such as nullify that blocks all incoming damage.
+
+![image](https://github.com/user-attachments/assets/d42a28f0-b8cf-4d4c-bda7-d2f529be21ae)
 
 
 
