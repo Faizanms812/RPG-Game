@@ -1,10 +1,10 @@
 # RPG-Game
 Created a turn-based RPG-style game using Tkinter and Python
 
-Week 7 of learning Python. I decided to take a break from CS50P and applied my skills that I have learned into a practical project. The code for the game is located in the file RPG.py.
+Week 7 of learning Python. I decided to take a break from CS50P and apply the skills I had learned in a practical project. The code for the game is located in the file RPG.py.
 
-This is the main menu of the game. I am using Tkinter library to display a frame for the menu. I also used PIL library for the Image and to resize it. I then used a label to cover the background. 
-The start button on the main menu will stop displaying the current frame and immediately put you into the game with a random chosen class and monster to fight
+This is the main menu of the game. I am using the Tkinter library to display a frame for the menu. I also used the PIL library for the Image and to resize it. I then used a label to cover the background. 
+The start button on the main menu will stop displaying the current frame and immediately put you into the game with a randomly chosen class and monster to fight
 
 ![image](https://github.com/user-attachments/assets/69d5da06-4f3f-432d-9eb9-4c2f47ce0f6a)
 
